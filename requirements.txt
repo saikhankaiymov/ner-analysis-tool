@@ -1,0 +1,9 @@
+flask
+spacy
+nltk
+transformers
+pdfplumber
+mpmath
+networkx
+sympy
+torch

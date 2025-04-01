@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+
+# Файлы IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Логи и локальные данные
+*.log
+.DS_Store
+
+# Кэш и временные файлы
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+.cache/
+nosetests.xml
+coverage.xml
+*.cover

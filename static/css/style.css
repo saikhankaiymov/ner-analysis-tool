@@ -1,0 +1,40 @@
+.book-cover {
+    max-height: 200px;
+    margin-bottom: 20px;
+}
+
+.entity {
+    padding: 2px 4px;
+    margin: 0 2px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.PERSON, .B-PER, .I-PER {
+    background-color: #ffcc99;
+}
+
+.LOCATION, .B-LOC, .I-LOC {
+    background-color: #99ccff;
+}
+
+.ORGANIZATION, .B-ORG, .I-ORG {
+    background-color: #99ff99;
+}
+
+.CHARACTER {
+    background-color: #ff99cc;
+}
+
+.DATE, .B-DATE, .I-DATE {
+    background-color: #e6e6e6;
+}
+
+.MISC, .B-MISC, .I-MISC {
+    background-color: #d9b3ff;
+}
+
+.comparison-results {
+    max-height: 600px;
+    overflow-y: auto;
+}
